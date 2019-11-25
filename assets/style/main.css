@@ -124,6 +124,19 @@ h2 {
 .portfolio h2{
 	margin:0;
 }
+.portfolio-wrapper{
+	display: flex;
+	justify-content: center;
+	padding: 2vw;
+}
+.project{
+	width: 50%;
+	text-align: center;
+}
+.project img{
+	width: 80%;
+	height: auto;
+}
 .contact {
 	background-color: #f1f1f1;
 	padding:0 0 50px 0px;
